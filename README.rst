@@ -50,3 +50,5 @@ To build the docs, use::
   $ tox -e docs
 
 Results are in the ``doc/build/html`` directory
+
+On Cloud
